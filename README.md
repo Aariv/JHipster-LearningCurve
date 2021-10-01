@@ -1,5 +1,5 @@
 # JHipster-LearningCurve
 
-Server Side Technologies.
+Server Side Technologies (Java/Spring/Springboot/Jenkins/CI/CD).
 
-Client Side Technologies. 
+Client Side Technologies(Angular/React/Webpack). 
